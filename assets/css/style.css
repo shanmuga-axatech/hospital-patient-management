@@ -1,0 +1,40 @@
+body {
+  min-height: 2000px;  
+  background-color: #EAECEC;
+}
+.new-patient-icon {
+	color: #000000;
+}
+
+.ex-patient-icon {
+	color: #CCCCCC;
+}
+
+.color-white {
+	color: #FFFFFF;
+}
+.bg-white {
+	background-color: #FFFFFF;
+}
+.pad-top{
+	padding-top: 60px;
+}
+.address-bar {
+	background-color: #862197;
+	min-height: 100px;
+}
+.pad-bottom-2px {
+	padding-bottom: 2px;
+	margin-bottom: 2px;
+}
+.no-pad {
+	padding: 0px;
+}
+
+.ui-datepicker-month,.ui-datepicker-year {
+	color: #000;
+}
+
+.error{
+	color: #FF5733;
+}
